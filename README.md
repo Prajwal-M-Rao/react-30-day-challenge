@@ -1,2 +1,26 @@
-# react-30-day-challenge
-A structured 30-day journey to learn JavaScript and React by building projects daily. Focused on fundamentals, modern tools, and hands-on practice.
+# 🚀 React 30-Day Challenge
+
+A structured 30-day journey to master **JavaScript and React** by building projects and practicing daily.
+
+This repository documents my learning progress with a focus on:
+- Strong JavaScript fundamentals
+- Modern React development
+- Hands-on mini projects
+- Clean and scalable code practices
+
+---
+
+## 📅 Learning Plan
+
+| Day | Topic | Status |
+|-----|------|--------|
+| Day 1 | JavaScript Fundamentals | ⏳ |
+| Day 2 | Async JS & DOM | ⏳ |
+| Day 3 | React Setup (Vite) & JSX | ⏳ |
+| Day 4 | Components & Props | ⏳ |
+| Day 5 | State & Events | ⏳ |
+| ... | ... | ... |
+
+---
+
+## 📂 Folder Structure
