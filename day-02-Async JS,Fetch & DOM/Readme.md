@@ -34,15 +34,6 @@ open 06-mini-task-github.html
 # or just double-click the file
 ```
 
-## Mini Task
-
-`06-mini-task-github.html` — open in any browser. It:
-- Fetches a GitHub user profile via the GitHub REST API
-- Renders avatar, name, bio, and stats to the DOM
-- Lists their latest repos with language, stars, and last updated
-- Handles errors (404, rate limit, network failure) gracefully
-- Loads your profile (`Prajwal-M-Rao`) automatically on open
-
 ## Push to GitHub
 
 ```bash
