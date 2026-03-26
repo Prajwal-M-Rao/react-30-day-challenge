@@ -14,17 +14,38 @@ This repository documents my learning progress with a focus on:
 
 | Day | Topic | Status |
 |-----|------|--------|
-| Day 1 | JavaScript Fundamentals | ⏳ |
-| Day 2 | Async JS & DOM | ⏳ |
-| Day 3 | React Setup (Vite) & JSX | ⏳ |
+| Day 1 | JavaScript Fundamentals | ✅ |
+| Day 2 | Async JS & DOM | ✅ |
+| Day 3 | React Setup (Vite) & JSX | ✅ |
 | Day 4 | Components & Props | ⏳ |
 | Day 5 | State & Events | ⏳ |
 | ... | ... | ... |
 
 ---
 
+## 📌 Day 1 Highlights – JavaScript Fundamentals
+- Revised ES6 concepts (let, const, arrow functions)
+- Practiced destructuring and spread operators
+- Used array methods like map, filter, reduce
 
 ---
+
+## 📌 Day 2 Highlights – Async JS & DOM
+- Learned promises and async/await
+- Fetched data using APIs
+- Practiced basic DOM manipulation
+
+---
+
+## 📌 Day 3 Highlights – React Setup & JSX
+- Set up React project using Vite
+- Understood project structure (src, main.jsx, App.jsx)
+- Learned JSX syntax and rules
+- Created basic functional components
+- Rendered dynamic content using JavaScript inside JSX
+
+---
+
 
 ## 🛠️ Tech Stack
 
