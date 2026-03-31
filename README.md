@@ -17,9 +17,9 @@ This repository documents my learning progress with a focus on:
 | Day 1 | JavaScript Fundamentals | ✅ |
 | Day 2 | Async JS & DOM | ✅ |
 | Day 3 | React Setup (Vite) & JSX | ✅ |
-| Day 4 | Components & Props | ⏳ |
-| Day 5 | State & Events | ⏳ |
-| ... | ... | ... |
+| Day 4 | Components & Props | ✅ |
+| Day 5 | State & Events | ✅ |
+
 
 ---
 
@@ -46,6 +46,23 @@ This repository documents my learning progress with a focus on:
 
 ---
 
+## 📌 Day 4 Highlights – Components & Props
+- Learned how React components communicate with each other
+- Created reusable functional components (`ProfileCard`, `SkillBadge`)
+- Passed dynamic data (strings, arrays, images) using Props
+- Practiced Component Composition (nesting components inside others)
+- **Mini Task:** Built a Team Profile UI using reusable components
+
+---
+
+## 📌 Day 5 Highlights – State & Events
+- Learned the `useState` hook to manage component memory
+- Handled user interactions like button clicks (`onClick`)
+- Updated the UI dynamically without refreshing the page
+- Managed form input state (`onChange`)
+- **Mini Task:** Built a Counter app and an Input Text Tracker
+
+---
 
 ## 🛠️ Tech Stack
 

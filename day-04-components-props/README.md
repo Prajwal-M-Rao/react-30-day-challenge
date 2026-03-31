@@ -4,14 +4,17 @@
 Learn how React components communicate and build reusable UI pieces. Focus on passing multiple props and practicing component composition.
 
 ## 📌 Concepts Practiced
-- **Functional Components:** Created reusable `ProfileCard` and `SkillBadge` components.
-- **Props:** Passed dynamic data (strings, arrays, images) from the parent (`App.jsx`) to the children.
-- **Component Composition:** Rendered `<SkillBadge>` components *inside* the `<ProfileCard>` component to build a complex UI out of small blocks.
+- **Functional Components:** Writing standard JavaScript functions that return JSX.
+- **Props (Passing Data):** Passing dynamic data (strings, arrays, images) from the parent (`App.jsx`) down to the children.
+- **Component Composition:** Nesting components to build complex UIs (e.g., rendering multiple `<SkillBadge>` components *inside* the `<ProfileCard>` component).
 
 ## 🛠️ Mini Task Completed
-Built a simple "Team Profiles" UI that iterates over an array of user objects and dynamically renders profile cards.
+**Team Profiles UI:** Built a reusable `ProfileCard` component. The `App` component holds an array of user data and maps over it, passing multiple props down to dynamically generate beautiful, reusable profile cards.
 
 ## 🚀 How to Run
 ```bash
+# Install dependencies
 npm install
+
+# Start the development server
 npm run dev
